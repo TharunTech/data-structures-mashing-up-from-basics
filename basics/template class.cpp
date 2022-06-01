@@ -78,5 +78,4 @@ int main(){
     Arithmetic <float> ar(10.1,5.8);
     cout<<"add"<<ar.add()<<endl;
     cout<<"sub "<<ar.sub()<<endl;
-
 }
